@@ -1,0 +1,36 @@
+.navbar
+{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.container-fluid
+{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.navbar-brand
+{
+    color:#fff;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.active-link 
+{
+    background-color: blue;
+}
+a
+{
+color: #fff;
+text-decoration: none;
+}
+
+a:hover
+{
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px; 
+}

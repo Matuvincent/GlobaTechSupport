@@ -1,0 +1,13 @@
+.home-container{
+    padding: 5px;
+    max-width: 1400px;
+    width: 95%;
+    margin: 5px auto;
+}
+.row{
+    justify-content: center;
+}
+
+.card2{
+    display: flex;
+}
